@@ -6,4 +6,7 @@
     <Project Path="tests/TestLibrary.Tests/TestLibrary.Tests.csproj" />
     <Project Path="tests/MonitorTests.Reqnroll/MonitorTests.Reqnroll.csproj" />
   </Folder>
+  <Folder Name="/examples/">
+    <Project Path="examples/MonitorDemo/MonitorDemo.csproj" />
+  </Folder>
 </Solution>

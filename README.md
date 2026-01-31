@@ -7,6 +7,7 @@ A .NET 9 class library project with sample calculator functionality and monitor 
 - `src/TestLibrary` - The main .NET 9 class library
 - `tests/TestLibrary.Tests` - xUnit test project for the library
 - `tests/MonitorTests.Reqnroll` - Reqnroll/NUnit test project for monitor functionality
+- `examples/MonitorDemo` - Console application demonstrating monitor power control
 
 ## Requirements
 
@@ -23,6 +24,17 @@ dotnet build
 ```bash
 dotnet test
 ```
+
+## Running the Demo
+
+To see the monitor power control in action:
+
+```bash
+cd examples/MonitorDemo
+dotnet run
+```
+
+**Note:** The demo will only control the monitor on Windows systems. On other platforms, it demonstrates proper platform exception handling.
 
 ## Features
 
