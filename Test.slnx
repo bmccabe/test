@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TestLibrary/TestLibrary.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TestLibrary.Tests/TestLibrary.Tests.csproj" />
+    <Project Path="tests/MonitorTests.Reqnroll/MonitorTests.Reqnroll.csproj" />
+  </Folder>
+</Solution>
