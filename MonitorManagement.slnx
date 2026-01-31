@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MonitorManagement.Tests.Reqnrol/MonitorManagement.Tests.Reqnrol.csproj" />
+  <Project Path="MonitorManagement/MonitorManagement.csproj" />
+</Solution>
